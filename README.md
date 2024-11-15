@@ -2,7 +2,7 @@
 
 At some point during my [thesis](https://ikee.lib.auth.gr/record/350727/?ln=en), a colleague asked me to explain what exactly was multi-lateration. My first response was to describe the mathematical formula. But when he asked me "What is the geometric interpretation of all that?", I realized I didn't know. So to find out, I made this little app.
 
-This app was developed in [Qt Creator](https://www.qt.io/product/development-tools) version 5.14. All the 2-D plots were implemented using the [QCustomPlot](https://www.qcustomplot.com/) library. The app was deployed for Windows only (sorry about that). You can download the latest release [here](https://github.com/gemargar/testMap/releases/tag/v0.1).
+This app was developed in [Qt Creator](https://www.qt.io/product/development-tools) version 5.14. All the 2-D plots were implemented using the [QCustomPlot](https://www.qcustomplot.com/) library. The app was deployed for Windows only (sorry about that). You can download the latest release [here](https://github.com/gemargar/testMap/releases/tag/v1.0).
 
 ## Theoretical Background
 
